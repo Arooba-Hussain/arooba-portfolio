@@ -230,13 +230,14 @@ button {
     padding: 18px; 
     background: #111827; 
     color: #ffffff; 
-    box-shadow: 20px 25px 60px rgba(17, 24, 39, 0.18); 
+    border: 1px solid #2c3650; 
+    box-shadow: 20px 25px 60px #1118272e; 
     transform: rotate(2deg); 
     transition: 0.4s ease; 
 } 
  
 .dark-mode .profile-card { 
-    background: #f1f3f8; 
+    background: #c0d2ff; 
     color: #111827; 
     border: 1px solid #d7dce8; 
     box-shadow: 20px 25px 60px rgba(0, 0, 0, 0.3); 
